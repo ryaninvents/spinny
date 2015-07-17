@@ -1,0 +1,25 @@
+{
+  "name": "spinny",
+  "version": "1.0.0",
+  "description": "Console wait indicators",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r24y/spinny.git"
+  },
+  "keywords": [
+    "spinner",
+    "loader",
+    "console",
+    "cli"
+  ],
+  "author": "Ryan Muller <ryan@muller.io>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/r24y/spinny/issues"
+  },
+  "homepage": "https://github.com/r24y/spinny#readme"
+}
