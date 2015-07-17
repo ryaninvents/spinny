@@ -2,6 +2,16 @@
 
 Console wait indicators inspired by [this SO thread](http://stackoverflow.com/questions/2685435/cooler-ascii-spinners).
 
+## Demo
+
+```
+npm i spinny
+node node_modules/spinny
+
+# You can supply a spinner name as the last argument
+node node_modules/spinny clock
+```
+
 ## Usage
 
 ```
